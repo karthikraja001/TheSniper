@@ -23,15 +23,15 @@ git clone
 ```
 **Head Towards the Application File**
 ```
-cd 
+cd The-Sniper
 ```
 **To Run This Application, Simpy Type**
 ```
-python sniper.py
+python theSniper.py
 ```
 **To Run This Application as .exe, Simply Type**
 ```
-pyinstaller --onefile sniper.py
+pyinstaller --onefile theSniper.py
 ```
 **Your .exe is successfully saved in the dist folder as **dist/sniper.exe****
 
