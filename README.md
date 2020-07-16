@@ -5,7 +5,7 @@
 [1]: https://www.instagram.com/mr.anonymous_official
 [11]: https://twitter.com/MrAnonymousofcl
 
-# The-Sniper   ︻デ═一
+# The-Sniper       **︻デ═一**
 ![image](https://user-images.githubusercontent.com/64122408/87697432-b3ebca00-c7af-11ea-9dcb-5c61d909f62e.png)
 
 
