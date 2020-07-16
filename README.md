@@ -38,6 +38,11 @@ pyinstaller --onefile sniper.py
 # NOTE
 > Feel Free To make PULL REQUEST'$ .
 
+# SCREENSHOTS
+> Help TAB
+![image](https://user-images.githubusercontent.com/64122408/87697940-6a4faf00-c7b0-11ea-9039-6aba7f947805.png)
+
+
 # CREDITS  
 :white_check_mark:**Karthik Raja**
 ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
