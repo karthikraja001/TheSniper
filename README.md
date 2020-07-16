@@ -19,15 +19,16 @@
 
 **To Start cloning this Repository, Type in the Following**
 ```
-git clone 
+git clone https://github.com/mr-anonymous-official/TheSniper
 ```
 **Head Towards the Application File**
 ```
-cd The-Sniper
+cd TheSniper
 ```
 **To Run This Application, Simpy Type**
 ```
-python theSniper.py
+chmod +x TheSniper.py
+python TheSniper.py
 ```
 **To Run This Application as .exe, Simply Type**
 ```
