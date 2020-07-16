@@ -40,9 +40,10 @@ pyinstaller --onefile sniper.py
 
 # SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/64122408/87697940-6a4faf00-c7b0-11ea-9039-6aba7f947805.png)
-> Help TAB
+* Help TAB
+<br/>
 ![image](https://user-images.githubusercontent.com/64122408/87699410-73418000-c7b2-11ea-85c0-b7f634a333e1.png)
-> Password Grabber (All Details're Hidden due to privacy)
+* Password Grabber (All Details're Hidden due to privacy)
 
 
 # CREDITS  
