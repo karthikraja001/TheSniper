@@ -55,6 +55,6 @@ pyinstaller --onefile theSniper.py
 
 # CREDITS  
 :white_check_mark:**Karthik Raja**
-![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
+![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=karthikraja001&style=social) <br/>
 <br/>
 [![alt text][1.1]][1][![alt text][1.2]][11] <br/>
